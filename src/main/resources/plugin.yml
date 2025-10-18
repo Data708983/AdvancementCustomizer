@@ -1,0 +1,5 @@
+name: AdvancementCustomizer
+version: '1.0-SNAPSHOT'
+main: org.data7.advancementCustomizer.AdvancementCustomizer
+api-version: '1.21'
+depend: [UltimateAdvancementAPI]
