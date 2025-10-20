@@ -16,9 +16,9 @@
 
 <p align="center">
   <a href="https://github.com/Data708983/AdvancementCustomizer/releases"><img src="https://img.shields.io/github/downloads/Data708983/BYD_WORLD_ULTRA/total?color=%239F7AEA" alt="Release Downloads"></a>
-  <a href="#"><img src="https://github.com/Data708983/AdvancementCustomizer?color=6882C4" alt="GitHub Repo Size"></a>
-  <a href="#"><img src="https://github.com/Data708983/AdvancementCustomizer?color=%23638e66" alt="Last Commit"></a>
-  <a href="#"><img src="https://github.com/Data708983/AdvancementCustomizer?color=%15" alt="Release Date"></a>
+  <a href="#"><img src="https://img.shields.io/github/repo-size/Data708983/AdvancementCustomizer?color=6882C4" alt="GitHub Repo Size"></a>
+  <a href="#"><img src="https://img.shields.io/github/last-commit/Data708983/AdvancementCustomizer?color=%23638e66" alt="Last Commit"></a>
+  <a href="#"><img src="https://img.shields.io/github/release-date/Data708983/AdvancementCustomizer?color=%15" alt="Release Date"></a>
   <a href="https://skin.dataseven.fun/"><img src="https://img.shields.io/badge/server-BYD__WORLD-%23cf51c6" alt="Server"></a>
 </p>
 <p align="center">
