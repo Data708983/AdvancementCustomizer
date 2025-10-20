@@ -9,7 +9,7 @@
 </a>
 <p align="center">Paper Plugin of Custom Advancement</p>
 <h1 align="center">AdvancementCustomizer</h1>
-<h1 align="center" color="red">UNDER DEVELOP!</h1>
+<h1 align="center" textcolor="red">UNDER DEVELOPMENT!</h1>
 
 <p align="center">
     Give us a star if you like this!
