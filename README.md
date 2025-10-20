@@ -4,7 +4,7 @@
 
 ---
 
-<a href="https://github.com/Data708983/BYD_WORLD_ULTRA">
+<a href="https://github.com/Data708983/AdvancementCustomizer">
   <p align="center"><img src="https://github.com/Data708983/AdvancementCustomizer/blob/master/Docs/img/AdvancementCustomizer4.png" alt="ICON"></p>
 </a>
 <p align="center">Paper Plugin of Custom Advancement</p>
