@@ -5,7 +5,7 @@
 ---
 
 <a href="https://github.com/Data708983/BYD_WORLD_ULTRA">
-  <p align="center"><img src="https://github.com/Data708983/BYD_WORLD_ULTRA/blob/master/Doc/Img/neitherDoor4.png" alt="BYD_ICON"></p>
+  <p align="center"><img src="https://github.com/Data708983/AdvancementCustomizer/blob/master/Docs/img/AdvancementCustomizer4.png" alt="ICON"></p>
 </a>
 <!-- <p align="center">Vanilla Survival Enhancement Server Basic Integration Plugin</p> -->
 <p align="center">Paper Plugin of Vanilla Survival Enhancement</p>
